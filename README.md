@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=sarim2022&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](# 💫 About Me:
+ # 💫 About Me:
 🔭 I'm currently working on: Enhancing a task-management Android app using Kotlin, XML, and MVVM.<br><br>👯 I'm looking to collaborate on: Open-source Android projects, focusing on Kotlin, Firebase, and API integration.<br><br>🤔 I'm looking for help with: Optimizing large-scale Android MVVM architecture and robust API integration.<br><br>🌱 I'm currently learning: Advanced Machine Learning concepts and mastering Python/Flask backend development.<br><br>💬 Ask me about: Android development, Kotlin, XML UI, Firebase, SQL, and MVVM architecture.<br><br>⚡ Fun fact: I transform ideas into reality and hunt bugs into victory daily.
 
 
